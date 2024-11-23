@@ -6,8 +6,9 @@ The **Reverse Vending Machine (RVM)** is an innovative solution for waste manage
 ---
 # Video
 
-[![Reverse Vending Machine](https://img.youtube.com/vi/PSuxl_eE6xM/0.jpg)](https://www.youtube.com/PSuxl_eE6xM)
+[![Reverse-Vending-Machine](https://img.youtube.com/vi/PSuxl_eE6xM/0.jpg)](https://www.youtube.com/PSuxl_eE6xM)
 ---
+Reverse-Vending-Machine
 
 ## Table of Contents
 1. [Introduction](#introduction)
