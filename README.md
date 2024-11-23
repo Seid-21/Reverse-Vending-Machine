@@ -4,9 +4,10 @@
 The **Reverse Vending Machine (RVM)** is an innovative solution for waste management and recycling, designed to promote environmental sustainability and enhance the circular economy. It incentivizes users by providing rewards for depositing recyclable materials such as plastic bottles, cans, and glass containers. This machine not only aids in reducing landfill waste but also plays a critical role in ecosystem preservation.
 
 ---
-# Video
+
 
 [![Reverse-Vending-Machine](https://img.youtube.com/vi/PSuxl_eE6xM/0.jpg)](https://www.youtube.com/PSuxl_eE6xM)
+
 ---
 Reverse-Vending-Machine
 
